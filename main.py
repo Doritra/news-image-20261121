@@ -1,8 +1,9 @@
 """News-image entry for 21 November 2026.
 
-The repository ships the finished front page as entry.png; this program
-copies it to the output directory, byte for byte, with no network use.
-Outside the grader, MAKEFUN_OUTPUT_DIR stands in for /output.
+The repository ships the finished front page as entry.png (final edition:
+40 stories from Saturday 21 November 2026, one 1024x1024 picture); this
+program copies it to the output directory, byte for byte, with no network
+use. Outside the grader, MAKEFUN_OUTPUT_DIR stands in for /output.
 """
 
 import os
